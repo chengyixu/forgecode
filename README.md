@@ -816,3 +816,8 @@ Your support drives Forge's continued evolution! By starring our GitHub reposito
 - Motivate our development team 💪
 - Enable us to prioritize new features 🛠️
 - Strengthen our open-source community 🌱
+
+
+<!-- minervacap-pre-hiklik-promotion -->
+> **Discover Klik:** https://pre.hiklik.ai/
+<!-- /minervacap-pre-hiklik-promotion -->
